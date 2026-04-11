@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "services": "Services",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "headline": "Elegant Tent & Decoration Rentals in Bali",
+    "subheadline": "Creating unforgettable atmospheres for weddings and events since 2000.",
+    "cta": "Book Your Dates",
+    "cta2": "Order Online"
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "id": "vip-tents",
+        "title": "VIP Tents",
+        "description": "Luxurious and elegant tents perfect for weddings and VVIP events, complete with exclusive decorations."
+      },
+      {
+        "id": "standard-tents",
+        "title": "Standard Tents",
+        "description": "Quality standard tent options with neat ceiling covers suitable for all kinds of events."
+      },
+      {
+        "id": "furniture",
+        "title": "Event Furniture",
+        "description": "Rental of various types of well-maintained and comfortable event chairs and tables."
+      },
+      {
+        "id": "lighting-ac",
+        "title": "Lighting & AC",
+        "description": "Portable AC units and professional light setups to brighten up your event nights."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Past Events"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "I Gede Arya",
+        "text": "Amazing! The tent decoration for my daughter's wedding was incredibly luxurious. The staff was also highly professional."
+      },
+      {
+        "id": 2,
+        "name": "Ni Made Ayu",
+        "text": "The quality of the tents and chairs is top-notch, and the AC was cold keeping all guests comfortable. Thank you Purusa Utama!"
+      },
+      {
+        "id": 3,
+        "name": "I Nyoman Sandiartha",
+        "text": "The price is completely worth the quality provided. Highly recommended for any large events in Bali."
+      }
+    ]
+  },
+  "footer": {
+    "cta": "Chat on WhatsApp",
+    "cta2": "Order Online",
+    "address": "Jl. Seririt-Pupuan, Ringdikit, Kec. Seririt, Kabupaten Buleleng, Bali 81153",
+    "copyright": "© 2026 Purusa Utama. All Rights Reserved."
+  }
+}

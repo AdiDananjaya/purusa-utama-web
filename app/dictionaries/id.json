@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "services": "Layanan",
+    "gallery": "Galeri",
+    "reviews": "Ulasan",
+    "contact": "Hubungi Kami"
+  },
+  "hero": {
+    "headline": "Sewa Tenda & Dekorasi Elegan di Bali",
+    "subheadline": "Menciptakan suasana tak terlupakan untuk pernikahan dan acara sejak tahun 2000.",
+    "cta": "Pesan Sekarang",
+    "cta2": "Pesan Online"
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "items": [
+      {
+        "id": "vip-tents",
+        "title": "Tenda VIP",
+        "description": "Tenda mewah dan elegan yang cocok untuk pernikahan dan acara VVIP, dilengkapi dekorasi eksklusif."
+      },
+      {
+        "id": "standard-tents",
+        "title": "Tenda Plafon",
+        "description": "Pilihan tenda standar berkualitas dengan penutup plafon yang rapi untuk segala jenis acara."
+      },
+      {
+        "id": "furniture",
+        "title": "Kursi & Meja",
+        "description": "Penyewaan berbagai tipe kursi dan meja acara yang nyaman dan terawat."
+      },
+      {
+        "id": "lighting-ac",
+        "title": "Pendingin & Pencahayaan",
+        "description": "Sistem AC portabel dan tata cahaya profesional untuk menyemarakkan malam acara."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galeri Acara"
+  },
+  "testimonials": {
+    "title": "Apa Kata Klien Kami",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "I Gede Arya",
+        "text": "Luar biasa! Dekorasi tenda untuk pernikahan putri saya sangat mewah. Staf yang bekerja juga sangat profesional."
+      },
+      {
+        "id": 2,
+        "name": "Ni Made Ayu",
+        "text": "Kualitas tenda dan kursi sangat bagus, AC-nya juga dingin jadi semua tamu nyaman. Terima kasih Purusa Utama!"
+      },
+      {
+        "id": 3,
+        "name": "I Nyoman Sandiartha",
+        "text": "Harga sebanding dengan kualitas yang diberikan. Sangat direkomendasikan untuk event besar di Bali."
+      }
+    ]
+  },
+  "footer": {
+    "cta": "Hubungi via WhatsApp",
+    "cta2": "Pesan Online",
+    "address": "Jl. Seririt-Pupuan, Ringdikit, Kec. Seririt, Kabupaten Buleleng, Bali 81153",
+    "copyright": "© 2026 Purusa Utama. Hak Cipta Dilindungi."
+  }
+}
