@@ -49,7 +49,7 @@ export default function Hero() {
             {dict.hero.cta}
           </a>
           <a 
-            href="https://purusa-pos.vercel.app/"
+            href="https://pos.purusautama.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-brand-dark px-10 py-4 rounded-full text-lg font-bold uppercase tracking-wider hover:bg-gray-100 transition shadow-lg border border-transparent flex items-center justify-center text-center"

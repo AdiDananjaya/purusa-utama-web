@@ -26,7 +26,7 @@ export default function Footer() {
           </a>
           
           <a 
-            href="https://purusa-pos.vercel.app/"
+            href="https://pos.purusautama.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-brand-gold text-white px-8 py-4 rounded-full text-lg font-bold uppercase tracking-wider hover:bg-yellow-600 transition-colors shadow-lg flex items-center justify-center space-x-3"
