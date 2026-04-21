@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.purusautama.com/"),
   title: "Purusa Utama | Sewa Tenda & Dekorasi Bali",
   description: "Sewa tenda VIP, kursi, meja, dan dekorasi elegan di Bali. Menciptakan suasana premium tak terlupakan untuk pernikahan, corporate event, dan acara sejak tahun 2000.",
   keywords: ["sewa tenda bali", "dekorasi pernikahan bali", "bali wedding tent rental", "bali event decoration", "sewa kursi bali", "tenda VIP bali", "Purusa Utama", "rental tenda pernikahan"],
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "id_ID",
     alternateLocale: "en_US",
-    url: "https://purusa-utama-web.vercel.app/",
+    url: "https://www.purusautama.com/",
     title: "Purusa Utama | Sewa Tenda & Dekorasi Bali",
     description: "Sewa tenda VIP, kursi, meja, dan dekorasi elegan di Bali. Menciptakan suasana premium tak terlupakan untuk acara Anda.",
     siteName: "Purusa Utama",
